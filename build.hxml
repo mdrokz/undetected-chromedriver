@@ -1,0 +1,21 @@
+--class-path undetected_chromedriver
+
+-main Main
+
+
+# --library hxnodejs
+
+# --js index.js
+
+# --next
+
+# --library hxcs
+# --library random
+
+# --cs out
+
+# --next
+
+--library random
+
+--hl out.hl
