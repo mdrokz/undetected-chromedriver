@@ -105,8 +105,6 @@ class Patcher {
 					var newline = r.replace(replacement.toString(), line);
 					// trace(newline);
 					write_file.writeString(newline);
-
-					trace('yay');
 				}
 			}
 		}
